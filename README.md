@@ -4,7 +4,7 @@
 HyperOS Ports For POCO X3/NFC by zGonzah
 
 ## Download
-- [A14 UMTINXM](https://drive.google.com/file/d/1VjldfqfAd4f2CJLrTyVfG4SFQYd8LZA_/view?usp=sharing)
+- [A14 UMTINXM](https://drive.google.com/file/d/12m2RwT0sUz5bQiNDwc-_51lERSdJqbXg/view?usp=sharing)
 
 ## Screenshots
 - [Telegram](https://t.me/XL_La/85308) 
