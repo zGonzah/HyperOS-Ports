@@ -17,6 +17,7 @@ HyperOS Ports For POCO X3/NFC by zGonzah
 - Fixed Video Duration
 - Debloated
 - HyperOS ID, u have Miui Apps and MultiLang on this port
+- Fixed SD Card Issues
 
 ## Credits
 - @kakashi1v1 for help
