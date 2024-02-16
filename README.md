@@ -4,7 +4,7 @@
 HyperOS Ports For POCO X3/NFC by zGonzah
 
 ## Download
-- [A14 UMTINXM](https://drive.google.com/file/d/12m2RwT0sUz5bQiNDwc-_51lERSdJqbXg/view?usp=sharing)
+- [A14 UMTINXM](https://drive.google.com/file/d/1czr8xpf5cEVJni7Fws01-jyVN4tnRHHx/view?usp=sharing)
 
 ## Screenshots
 - [Telegram](https://t.me/XL_La/85308) 
@@ -12,6 +12,10 @@ HyperOS Ports For POCO X3/NFC by zGonzah
 ## Notes:
 - Clean flash MANDATORY
 - You can report bugs to: [XL/Ricolino Support](https://t.me/XL_La)
+
+## HotFix Changelog 16/02/2024
+- Fixed Permissions Issues
+- Fixed Battery Capacity
 
 ## Changelog
 - Fixed Video Duration
