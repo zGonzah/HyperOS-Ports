@@ -13,8 +13,13 @@ HyperOS Ports For POCO X3/NFC by zGonzah
 - [Telegram](https://t.me/XL_La/85308) 
 
 ## Notes:
-- Clean flash MANDATORY
+- Clean flash MANDATORY.
 - You can report bugs to: [XL/Ricolino Support](https://t.me/XL_La)
+
+## Changelog 1/04/2024
+- Initial EU Port
+- EU Multilang Base
+- Ported from CUPID (Xiaomi 12)
 
 ## HotFix Changelog 16/02/2024
 - Fixed Permissions Issues
