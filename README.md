@@ -4,7 +4,7 @@
 HyperOS Ports For POCO X3/NFC by zGonzah
 
 ## Download
-- [A13 POCO X3/NFC Global (TGCMIXN)](https://drive.google.com/file/d/1hy9sS2CCoO1PpAIMdMJxntw0cXM0JQD1/view?usp=sharing)
+- [A13 POCO X3/NFC Global (TGCMIXN)](https://drive.google.com/file/d/1DDuyJcQbx07Sfsv-sT-rV8rLFKUykIQO/view?usp=sharing)
 
 - [A14 Xiaomi.EU 24.3.25](https://drive.google.com/file/d/1hy9sS2CCoO1PpAIMdMJxntw0cXM0JQD1/view?usp=sharing)
   
