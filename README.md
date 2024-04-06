@@ -4,6 +4,7 @@
 HyperOS Ports For POCO X3/NFC by zGonzah
 
 ## Download
+-[A13 POCO X3/NFC Global (TGCMIXN)](https://drive.google.com/file/d/1hy9sS2CCoO1PpAIMdMJxntw0cXM0JQD1/view?usp=sharing)
 
 - [A14 Xiaomi.EU 24.3.25](https://drive.google.com/file/d/1hy9sS2CCoO1PpAIMdMJxntw0cXM0JQD1/view?usp=sharing)
   
@@ -16,6 +17,14 @@ HyperOS Ports For POCO X3/NFC by zGonzah
 - Clean flash MANDATORY.
 - You can report bugs to: [XL/Ricolino Support](https://t.me/XL_La)
 
+## Changelog 5/04/2024
+- Fixed Video Duration (I Hope it works now)
+- Multilang Base
+- Just added Kashi's MiuiHome Module
+- Perf stock kernel
+- Stock Vendor
+- AOD Fully Working
+  
 ## Changelog 1/04/2024
 - Initial EU Port
 - EU Multilang Base
