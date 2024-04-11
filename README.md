@@ -17,7 +17,7 @@ HyperOS Ports For POCO X3/NFC by zGonzah
 - Clean flash MANDATORY.
 - You can report bugs to: [my support group](https://t.me/alexports)
 
-  ## Changelog 11/04/2024
+## Changelog 11/04/2024
 - Updated base
 - Fixed Video Duration (I Hope it works now)
 - EU Multilang Base
