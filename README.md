@@ -29,7 +29,7 @@ HyperOS Ports For POCO X3/NFC by zGonzah
 - Stock Vendor
 - AOD Fully Working
 - Ported from GARNET
-[Screenshots] (https://t.me/alexportupdates/5)
+- [Screenshots](https://t.me/alexportupdates/5)
 
 ## Changelog 5/04/2024
 - Fixed Video Duration (I Hope it works now)
