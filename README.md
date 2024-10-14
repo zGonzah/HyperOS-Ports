@@ -4,7 +4,7 @@
 HyperOS Ports For POCO X3/NFC by zGonzah
 
 ## Download
-- [A14 Xiaomi.EU 1.0.8](https://drive.google.com/file/d/1hy9sS2CCoO1PpAIMdMJxntw0cXM0JQD1/view?usp=sharing)
+- [A14 Xiaomi.EU 1.0.8](https://drive.usercontent.google.com/download?id=17dNk6Ihumf4MuvMu_hTDDlamVQ_iJURR&export=download&authuser=0)
 
 - [A14 POCO X3/NFC PaperOS (UNRCNXM)](https://drive.google.com/file/d/1vKXcbZDIdiDN3al18g9cU3I9Bn3OzJtL/view?usp=sharing)
   
