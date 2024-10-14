@@ -4,6 +4,8 @@
 HyperOS Ports For POCO X3/NFC by zGonzah
 
 ## Download
+- [A14 Xiaomi.EU 1.0.8](https://drive.google.com/file/d/1hy9sS2CCoO1PpAIMdMJxntw0cXM0JQD1/view?usp=sharing)
+
 - [A14 POCO X3/NFC PaperOS (UNRCNXM)](https://drive.google.com/file/d/1vKXcbZDIdiDN3al18g9cU3I9Bn3OzJtL/view?usp=sharing)
   
 - [A13 POCO X3/NFC Global (TGCMIXN)](https://drive.google.com/file/d/1DDuyJcQbx07Sfsv-sT-rV8rLFKUykIQO/view?usp=sharing)
@@ -16,6 +18,15 @@ HyperOS Ports For POCO X3/NFC by zGonzah
 ## Notes:
 - Clean flash MANDATORY.
 - You can report bugs to: [my support group](https://t.me/alexports)
+
+## Changelog 13/10/2024
+- Latest Diting base
+- EU Multilang Base
+- MTP Working
+- Perf stock kernel
+- Stock Vendor
+- Ported from Diting
+- [Screenshots](https://t.me/alexportupdates/49)
 
 ## Changelog 11/04/2024
 - Updated base
